@@ -1,8 +1,7 @@
-// Polymorphism in C++: A simple example of polymorphism using a base class and derived classes.
+// Dynamic Polymorphism 
 
 #include<iostream>
 #include<string>
-
 using namespace std;
 
 // Base class
@@ -134,7 +133,6 @@ int main() {
 
     return 0;
 }
-
 
 // ==================================================================================================================================
 //                                                           OUTPUT
