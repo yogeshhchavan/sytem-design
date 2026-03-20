@@ -110,3 +110,20 @@ int main(){
 
     return 0;
 }
+
+
+// ========================================================
+//                         OUTPUT
+// ========================================================
+
+// [CoderArmyuploaded "Observer Pattern Tutorial"]
+// Hey Yogesh,
+// Checkout our new Video : Observer Pattern Tutorial
+// Hey Varun,
+// Checkout our new Video : Observer Pattern Tutorial
+
+// [CoderArmyuploaded "Decorator Pattern Tutorial"]
+// Hey Varun,
+// Checkout our new Video : Decorator Pattern Tutorial
+
+// =========================================================
