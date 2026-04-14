@@ -1,1 +1,1 @@
-# sytem-design
+# system-design
